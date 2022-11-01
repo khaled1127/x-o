@@ -1,11 +1,9 @@
-h5 {
-    position: absolute;
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    font-size: 40px;
-    width: 100%;
+
+h5{
+      font-size: 47px;
+    width: 255px;
     text-align: center;
+    margin: 50px auto;
 }
 .game {
   width: 255px;
@@ -23,8 +21,6 @@ h5 {
   background-color: #f25;
   padding: 5px 0;
   margin: 5px 0;
-  
-    font-size: 30px;
 }
 span {
   color: #fa0;
@@ -44,18 +40,17 @@ span {
   cursor: pointer;
 }
 .popup {
-  position: absolute;
-  top: 20%;
-  left: 50%;
-  transform: translate(-50%, 10%);
-  width: 255px;
-  margin: auto;
-  padding: 61px 9px;
-  font-size: 33px;
-  font-weight: 700;
-  background-color: rgb(0, 0, 0);
-  color: #fff;
-  direction: rtl;
-  text-align: center;
-  line-height: 1;
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, 10%);
+    width: 255px;
+    margin: auto;
+    padding: 61px 9px;
+    font-size: 33px;
+    font-weight: 700;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    direction: rtl;
+    text-align: center;
 }
